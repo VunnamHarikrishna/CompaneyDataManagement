@@ -1,0 +1,9 @@
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\bin\Debug\CompaneyDataDLL.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\bin\Debug\CompaneyDataDLL.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\bin\Debug\Entityes.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\bin\Debug\Entityes.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\obj\Debug\CompaneyDataDLL.csprojAssemblyReference.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\obj\Debug\CompaneyDataDLL.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\obj\Debug\CompaneyDataDLL.csproj.CopyComplete
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\obj\Debug\CompaneyDataDLL.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataDLL\obj\Debug\CompaneyDataDLL.pdb

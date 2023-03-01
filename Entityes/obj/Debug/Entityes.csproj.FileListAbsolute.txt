@@ -1,0 +1,6 @@
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\bin\Debug\Entityes.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\bin\Debug\Entityes.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\obj\Debug\Entityes.csprojAssemblyReference.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\obj\Debug\Entityes.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\obj\Debug\Entityes.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\Entityes\obj\Debug\Entityes.pdb

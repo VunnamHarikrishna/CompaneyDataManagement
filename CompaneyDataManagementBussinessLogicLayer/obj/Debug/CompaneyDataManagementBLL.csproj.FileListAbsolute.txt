@@ -1,0 +1,11 @@
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\CompaneyDataManagementBussinessLogicLayer.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\CompaneyDataManagementBussinessLogicLayer.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\CompaneyDataDLL.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\Entityes.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\CompaneyDataDLL.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\bin\Debug\Entityes.pdb
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\obj\Debug\CompaneyDataManagementBLL.csprojAssemblyReference.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\obj\Debug\CompaneyDataManagementBLL.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\obj\Debug\CompaneyDataManagementBLL.csproj.CopyComplete
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\obj\Debug\CompaneyDataManagementBussinessLogicLayer.dll
+D:\C#\Practice\Personal Assignments\CompaneyDataManagement\CompaneyDataManagementBussinessLogicLayer\obj\Debug\CompaneyDataManagementBussinessLogicLayer.pdb
